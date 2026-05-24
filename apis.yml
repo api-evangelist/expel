@@ -108,6 +108,8 @@ common:
     description: Workbench connectors for CrowdStrike, SentinelOne, Microsoft Defender, and other EDR tools
   - name: Identity Providers
     description: Integrations with Okta, Entra ID, and other identity providers for identity-centric detections
+- type: LLMsTxt
+  url: https://expel.com/llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
