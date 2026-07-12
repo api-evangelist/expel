@@ -39,6 +39,12 @@ apis:
     analyst investigations, alerts, findings, and remediation recommendations, and supports outbound integrations into customer
     SIEM, SOAR, ITSM, and notification systems. Access is provisioned to Expel customers and partners via the Workbench portal.
 common:
+- type: TrustCenter
+  url: security/expel-trust-center.yml
+- type: VulnerabilityDisclosure
+  url: security/expel-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/expel-domain-security.yml
 - type: LinkedIn
   url: https://www.linkedin.com/company/expel
 - type: Website
