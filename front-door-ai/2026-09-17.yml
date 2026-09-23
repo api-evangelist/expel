@@ -1,0 +1,27 @@
+# Front Door AI Index — expel — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: expel
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: expel.com
+  final_host: expel.com
+  ownership: own
+  owner: expel
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 21
+  host_score: 21
+  density: 16.54
+  words: 1270
+  tiers:
+    agentic: 7
+    core: 14
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 14
+    agentic: 7
+    intelligence: 3
