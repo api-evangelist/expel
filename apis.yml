@@ -62,6 +62,12 @@ apis:
     analyst investigations, alerts, findings, and remediation recommendations, and supports outbound integrations into customer
     SIEM, SOAR, ITSM, and notification systems. Access is provisioned to Expel customers and partners via the Workbench portal.
 common:
+- type: Plans
+  url: plans/expel-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/expel-rate-limits.yml
+- type: FinOps
+  url: finops/expel-finops.yml
 - type: TrustCenter
   url: security/expel-trust-center.yml
 - type: VulnerabilityDisclosure
